@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/LearnMLOPS/03-traning/models/mlruns/575657495909073280/a66ac6e9e59244a28e583e001ca30b44/artifacts
+deleted_time: 1749580615211
+end_time: 1749580615208
+entry_point_name: ''
+experiment_id: '575657495909073280'
+lifecycle_stage: deleted
+run_id: a66ac6e9e59244a28e583e001ca30b44
+run_name: hilarious-shoat-495
+run_uuid: a66ac6e9e59244a28e583e001ca30b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749580615195
+status: 3
+tags: []
+user_id: codespace

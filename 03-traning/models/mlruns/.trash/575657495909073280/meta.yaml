@@ -1,0 +1,7 @@
+artifact_location: file:///workspaces/LearnMLOPS/03-traning/models/mlruns/575657495909073280
+creation_time: 1749580615010
+experiment_id: '575657495909073280'
+last_update_time: 1749580615211
+lifecycle_stage: deleted
+name: mlflow_test
+tags: {}

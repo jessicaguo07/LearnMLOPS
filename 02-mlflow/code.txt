@@ -1,0 +1,8 @@
+conda create -n exp-tracking-env python = 3.9 
+
+
+sudo lsof -i :5000
+sudo kill -9 3484 3486 3487 3488 3489
+mlflow ui --backend-store-uri sqlite:///mlflow.db --host 0.0.0.0 --port 5000
+
+mlflow ui --backend-store-uri /workspaces/LearnMLOPS/03-traning/models/mlruns --host 0.0.0.0 --port 5000
